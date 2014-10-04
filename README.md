@@ -9,4 +9,9 @@ Stylesheet({
     'background-color': '#fff' 
   }
 });
+
+// <style type="text/css">
+// body { background-color: #fff; }
+// </style>
+
 ```
